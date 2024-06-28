@@ -1,0 +1,11 @@
+{
+    
+    "odhDashboardURL": "",
+    "chromeWebSecurity": false,
+    "ocpAdminUser": {
+        "username": "htpasswd-cluster-admin-user",
+        "password": "",
+        "authType": "htpasswd-cluster-admin"
+    }
+    
+}
